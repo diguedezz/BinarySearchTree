@@ -21,4 +21,4 @@ class Node{
     	void setKey(int key){this->key = key;}
     	void setLeft(Node* left){this->left = left;}
     	void setRight(Node* Right){this->right = right;}
-
+}
